@@ -1,0 +1,18 @@
+[project]
+name = "internet-access-predictor"
+version = "1.0.0"
+description = "Predicts the % of a country's population using the internet, to plan online vs offline education in East Africa."
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn>=0.30",
+    "pydantic>=2.7",
+    "python-multipart>=0.0.9",
+    "scikit-learn==1.6.1",
+    "numpy==2.4.6",
+    "pandas==2.2.3",
+    "joblib>=1.4",
+]
+
+[dependency-groups]
+notebook = ["matplotlib>=3.8", "seaborn>=0.13", "ipykernel>=6.29", "jupyter>=1.0"]

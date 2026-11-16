@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+summative/FlutterApp/.dart_tool/
+summative/FlutterApp/build/
+summative/FlutterApp/.idea/
+*.iml
+.DS_Store
