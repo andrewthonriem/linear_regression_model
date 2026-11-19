@@ -1,7 +1,7 @@
 # Internet Access Predictor
 
 ## Mission and problem
-my mission is to leverage technology to empower my community. I aim to develop innovative solutions that address local challenges, promote education, and enhance access to resources. 
+My mission is to leverage technology to empower my community. I aim to develop innovative solutions that address local challenges, promote education, and enhance access to resources. 
 This project predicts the **% of a country's population using the internet** from its development indicators,
 so education ministries and NGOs can decide whether to deliver learning and document services online or offline.
 
