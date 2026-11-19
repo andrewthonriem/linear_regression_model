@@ -1,8 +1,7 @@
 # Internet Access Predictor
 
 ## Mission and problem
-My mission is to use technology to fight digital illiteracy and poor access to digital resources in South Sudan and East Africa.
-Online learning and online applications for national and academic documents only help people who can actually get online.
+my mission is to leverage technology to empower my community. I aim to develop innovative solutions that address local challenges, promote education, and enhance access to resources. 
 This project predicts the **% of a country's population using the internet** from its development indicators,
 so education ministries and NGOs can decide whether to deliver learning and document services online or offline.
 
