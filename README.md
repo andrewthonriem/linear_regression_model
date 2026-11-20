@@ -21,7 +21,7 @@ https://internet-access-predictor.onrender.com/docs
 The API is on Render's free plan, so the first request after a quiet period can take up to a minute.
 
 ## Video demo
-YouTube: https://youtu.be/REPLACE_WITH_VIDEO_ID
+YouTube: https://youtu.be/L9c2o1Fsqk8
 
 ## Run the mobile app
 1. Install Flutter (https://docs.flutter.dev/get-started/install) and check it with `flutter doctor`.
